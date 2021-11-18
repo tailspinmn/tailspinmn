@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tailspin Rock & Country - Band Members</title>
+	<link type="text/css" rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/png" href="img/icon.png" >
+	<meta http-equiv="Content-Language" content="en-US">
+	<meta name="description" content="Tailspin Classic Rock">
+		<!--[if lt IE 9]>
+	<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="bodybag">
+		<header>
+			<div style="position:relative; top:180px; left:130px;">BAND<br/>MEMEBERS</div>
+		</header>
+
+		<nav>
+			<ul>
+			<li>	<a href="http://www.tailspinmn.com">Home</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/gigs.php">Gigs</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/pictures.php">Photos</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/songlist.php">Songlist</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/video.php">Video</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/bios.php">Band Members</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/contact.php">Contact Us</a> </li><BR><BR><BR>
+			</ul>
+		</nav>
+	
+	<div id="notes">
+		Tailspin is a group of five musicians from the twin cities in Minnesota with years of experience that loves music and loves to perform great rock & country songs! 
+		If you are looking for a great band for your special day or you are an organization looking for a fun band, Tailspin will make your evening an enjoyable one!
+		<BR><BR><BR>
+		<div style = "position:relative; height: 1000px; float:left">	
+		
+			<div style="margin: 0pt 10px 0px 0pt; width: 260px; height: 320px; text-align: left;">
+			<img style="border: 0px" Title="" src="bios/" width=260px />
+			<BR><H3>New Drummer Picture Coming<BR></H3><H5>Drums</H5>
+			</div>
+			
+			<div style="margin: 0pt 10px 0px 0pt; width: 260px; height: 320px; text-align: left;">
+			<img style="border: 0px" Title="Jack" src="bios/JAC.jpg"/>
+			<BR><H3>Jack Deitte<BR></H3><h5>Guitar</h5>
+			</div>
+			
+			<div style="margin: 0pt 10px 0px 0pt; width: 260px; height: 300px; text-align: left;">
+			<img style="border: 0px" Title="Boyd" src="bios/BOY.jpg"/>
+			<BR><H3>Renato (Boyd) Japor<BR></H3><h5>Bass</h5>
+			</div>
+		</div>
+		
+		<div style = "position:relative; height: 1000px; float:right">
+		
+		<div style="margin: 0pt 10px 0px 0pt; width: 260px; height: 320px; text-align: left;">
+		<img style="border: 0px" Title="Julie" src="bios/JUL.jpg"/>
+		<BR><H3>Julie Steffes<BR></H3><h5>Vocals</h5>		
+		</div>
+		
+		<div style="margin: 0pt 10px 0px 0pt; width: 260px; height: 320px; text-align: left;">
+		<img style="border: 0px" Title="Larry" src="bios/LAR.jpg"/>
+		<BR><H3>Larry Larsen<BR></H3><h5>Lead Guitar & Vocals</h5>
+		</div>
+		
+		</div>
+		
+		
+		
+	<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+	<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+	<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+			<div style="margin: 0pt 10px 0px 0pt; top:70px; position: relative; width: 280px; height: 260px; text-align: left; float: left">
+			<img style="border: 0px" title="Tailspin!" src="img/FOOT0.jpg"/></A>
+			</div>
+			
+			<div style="margin: 0pt 10px 0px 0pt; position: relative; width: 200px; height: 220px; text-align: right; float: right">
+			<BR>			
+		<BR>			
+		
+			<img style="border: 0px" src="img/tslogo.png"/>
+				</div>	
+			<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+			</div>
+	
+			<footer>
+				 &#169; Tailspin 2015<br>
+			</footer>
+		</div>
+	</body>
+</html>
+

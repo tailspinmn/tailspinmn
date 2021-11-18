@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tailspin Rock & Country - Photos</title>
+	<link type="text/css" rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/png" href="img/icon.png" >
+	<meta http-equiv="Content-Language" content="en-US">
+	<meta name="description" content="Tailspin Classic Rock">
+		<!--[if lt IE 9]>
+	<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="bodybag">
+		<header>
+			<div style="position:relative; top:180px; left:130px;">PHOTOS</div>
+		</header>
+
+		<nav>
+			<ul>
+			<li>	<a href="http://www.tailspinmn.com">Home</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/gigs.php">Gigs</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/pictures.php">Photos</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/songlist.php">Songlist</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/video.php">Video</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/bios.php">Band Members</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/contact.php">Contact Us</a> </li><BR><BR><BR>
+			</ul>
+		</nav>
+
+		<div id="notes">
+		<h1>2010 - 2021</h1>
+		&nbsp;
+		<A HREF="/photo/2021/Pounders6-20-21.jpg" target="blank"><img style="border: 0px" height="412" src="/photo/2021/Pounders6-20-21.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2021/MrJims7-11-21.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2021/MrJims7-11-21.jpg"/></A>
+		<A HREF="/photo/2021/PioneerClub7-3-21.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2021/PioneerClub7-3-21.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2020/mrjimsequi2nov6.jpg" target="blank"><img style="border: 0px" height="309" src="/photo/2020/mrjimsequi2nov6.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2020/2020-patio.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2020/2020-patio.jpg"/></A>
+		<A HREF="/photo/2020/2020-small.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2020/2020-small.jpg"/></A>
+		<BR>&nbsp;
+
+		<A HREF="/photo/2019/Rt65-7-9-19.jpg" target="blank"><img style="border: 0px" height="268" src="/photo/2019/Rt65-7-9-19.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2019/Crystal-7-20-18.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2019/Crystal-7-20-18.jpg"/></A>
+		<A HREF="/photo/2019/CoonRapids-11-23-19.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2019/CoonRapids-11-23-19.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2019/RhythmOnTheRails-7-25-18.jpg" target="blank"><img style="border: 0px" height="242" src="/photo/2019/RhythmOnTheRails-7-25-18.jpg"/></A>
+		<A HREF="/photo/2019/Pounders-8-24-19.jpg" target="blank"><img style="border: 0px" height="242" src="/photo/2019/Pounders-8-24-19.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2017/KIRSTEN4th01.jpg" target="blank"><img style="border: 0px" height="181" src="/photo/2017/KIRSTEN4th01.jpg"/></A>
+		<A HREF="/photo/2017/KIRSTEN4th02.jpg" target="blank"><img style="border: 0px" height="181" src="/photo/2017/KIRSTEN4th02.jpg"/></A>
+		<BR>&nbsp;
+
+		<A HREF="/photo/2017/CoonRapidsLegion061417.jpg" target="blank"><img style="border: 0px" height="410" src="/photo/2017/CoonRapidsLegion061417.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2017/Flickabirds070817.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2017/Flickabirds070817.jpg"/></A>
+		<A HREF="/photo/2017/Neumanns042917.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2017/Neumanns042917.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="/photo/2017/NStPaulLegion052017.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2017/NStPaulLegion052017.jpg"/></A>
+		<A HREF="/photo/2017/OBriens060817.jpg" target="blank"><img style="border: 0px" height="204" src="/photo/2017/OBriens060817.jpg"/></A>
+		<BR>&nbsp;
+
+		<A HREF="photo/2016/201601.jpg" target="blank"><img style="border: 0px" height="215" src="photo/2016/201601.jpg"/></A>
+		<A HREF="photo/2016/201602.jpg" target="blank"><img style="border: 0px" height="215" src="photo/2016/201602.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2016/201603.jpg" target="blank"><img style="border: 0px" height="215" src="photo/2016/201603.jpg"/></A>
+		<A HREF="photo/2016/201604.jpg" target="blank"><img style="border: 0px" height="215" src="photo/2016/201604.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2016/201605.jpg" target="blank"><img style="border: 0px" height="190" src="photo/2016/201605.jpg"/></A>
+		<A HREF="photo/2016/201606.jpg" target="blank"><img style="border: 0px" height="190" src="photo/2016/201606.jpg"/></A>
+		<A HREF="photo/2016/201611.jpg" target="blank"><img style="border: 0px" height="190" src="photo/2016/201611.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2016/201607.jpg" target="blank"><img style="border: 0px" height="205" src="photo/2016/201607.jpg"/></A>
+		<A HREF="photo/2016/201608.jpg" target="blank"><img style="border: 0px" height="205" src="photo/2016/201608.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2016/201609.jpg" target="blank"><img style="border: 0px" height="205" src="photo/2016/201609.jpg"/></A>
+		<A HREF="photo/2016/201610.jpg" target="blank"><img style="border: 0px" height="205" src="photo/2016/201610.jpg"/></A>
+		<BR>&nbsp;
+
+		<A HREF="photo/2015/201502.JPG" target="blank"><img style="border: 0px" height="205" src="photo/2015/201502.JPG"/></A>
+		<A HREF="photo/2015/201505.JPG" target="blank"><img style="border: 0px" height="205" src="photo/2015/201505.JPG"/></A>
+
+		<BR>&nbsp;
+		<A HREF="photo/2015/201501.JPG" target="blank"><img style="border: 0px" height="180" src="photo/2015/201501.JPG"/></A>
+		<A HREF="photo/2015/201503.JPG" target="blank"><img style="border: 0px" height="180" src="photo/2015/201503.JPG"/></A>
+
+		<BR>&nbsp;
+		<A HREF="photo/2015/201504.JPG" target="blank"><img style="border: 0px" height="165" src="photo/2015/201504.JPG"/></A>
+		<A HREF="photo/2015/201506.JPG" target="blank"><img style="border: 0px" height="165" src="photo/2015/201506.JPG"/></A>
+		<BR>&nbsp;
+
+
+		<A HREF="photo/2014/11.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/11.jpg"/></A>
+		<A HREF="photo/2014/12.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/12.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2013/201305.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2013/201305.jpg"/></A>
+		<A HREF="photo/2013/201306.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2013/201306.jpg"/></A>
+		<BR>&nbsp;
+
+		<A HREF="photo/2013/201304.jpg" target="blank"><img style="border: 0px" height="204" src="photo/2013/201304.jpg"/></A>
+		<A HREF="photo/2014/01.jpg" target="blank"><img style="border: 0px" height="198" src="photo/2014/01.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2012/201205.jpg" target="blank"><img style="border: 0px" height="198" src="photo/2012/201205.jpg"/></A>
+		<A HREF="photo/2012/201208.jpg" target="blank"><img style="border: 0px" height="198" src="photo/2012/201208.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2011/201105.JPG" target="blank"><img style="border: 0px" height="198" src="photo/2011/201105.JPG"/></A>
+		<A HREF="photo/2011/201108.JPG" target="blank"><img style="border: 0px" height="198" src="photo/2011/201108.JPG"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2010/201005.JPG" target="blank"><img style="border: 0px" height="198" src="photo/2010/201005.JPG"/></A>
+		<A HREF="photo/2014/13.jpg" target="blank"><img style="border: 0px" height="190" src="photo/2014/13.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2014/02.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/02.jpg"/></A>
+		<A HREF="photo/2014/03.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/03.jpg"/></A>
+		<BR>&nbsp;
+		<A HREF="photo/2014/04.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/04.jpg"/></A>
+		<A HREF="photo/2014/05.jpg" target="blank"><img style="border: 0px" height="180" src="photo/2014/05.jpg"/></A>
+	    <BR>&nbsp;
+
+		<A HREF="photo/2014/14.jpg" target="blank"><img style="border: 0px" height="304" src="photo/2014/14.jpg"/></A>
+
+			<div style="margin: 0pt 10px 0px 0pt; top:70px; position: relative; width: 280px; height: 260px; text-align: left; float: left">
+			<img style="border: 0px" title="Tailspin!" src="img/FOOT0.jpg"/></A>
+			</div>
+
+			<div style="margin: 0pt 10px 0px 0pt; position: relative; width: 200px; height: 220px; text-align: right; float: right">
+			<BR>
+		<BR>
+
+			<img style="border: 0px" src="img/tslogo.png"/>
+				</div>
+			<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+			</div>
+
+			<footer>
+				 &#169; Tailspin 2020<br>
+			</footer>
+		</div>
+	</body>
+</html>

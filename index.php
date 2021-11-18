@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tailspin Rock & Country</title>
+	<link type="text/css" rel="stylesheet" href="style.css">
+	<link rel="shortcut icon" type="image/png" href="img/icon.png" >
+	<meta http-equiv="Content-Language" content="en-US">
+	<meta name="description" content="Tailspin Classic Rock">
+	<!--[if lt IE 9]>
+	<script src="dist/html5shiv.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div id="bodybag">
+		<header>
+			<div style="position:relative; top:180px; left:130px;">HOME</div>
+		</header>
+
+		<nav>
+			<ul>
+			<li>	<a href="http://www.tailspinmn.com">Home</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/gigs.php">Gigs</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/pictures.php">Photos</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/songlist.php">Songlist</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/video.php">Video</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/bios.php">Band Members</a> </li><BR><BR>
+			<li>	<a href="http://www.tailspinmn.com/contact.php">Contact Us</a> </li><BR><BR><BR>
+			</ul>
+		</nav>
+	
+	<div id="notes">
+		
+			Tailspin plays some of the best rock & country hits from the 50's, 60s, 70's, 80s, 90's to current.  
+			Songs range from pop, rock, southern rock, R&B, blues and lots of country.
+			<BR>
+			<BR>If you are looking for a great, fun band for your bar, special event, outdoor festival, wedding or private party, Tailspin is the band for you!
+			<BR>
+			<BR>Nothing makes your event more special than a live band entertaining your guests. Before you pay to have a DJ push the start button on their iPod, consider live musicians and real entertainment!
+			<BR><BR>
+			Like us on <a href="https://www.facebook.com/Tailspinmn" target="_blank">Facebook</a>
+			<BR><BR>
+			
+			<div style="margin: 0pt 10px 0px 0pt; top:20px; position: relative; width: 280px; height: 260px; text-align: left; float: left">
+			<img style="border: 0px" title="Tailspin!" src="img/FOOT0.jpg"/></A>
+			<BR><BR>
+			<small>Last Update: April 23, 2021 </small>
+			</div>
+			
+			<div style="margin: 0pt 10px 0px 0pt; position: relative; width: 200px; height: 220px; text-align: right; float: right">
+			<img style="border: 0px" src="img/tslogo.png"/>
+			<BR>
+							
+			
+			</div>	
+			<BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+			
+			
+			</div>
+	
+			<footer>
+				 &#169; Tailspin 2016<br>
+			</footer>
+		</div>
+	</body>
+</html>
